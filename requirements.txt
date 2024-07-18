@@ -2,3 +2,4 @@ numpy
 pandas
 scikit-learn
 streamlit
+sklearn.ensemble._gb_losses
